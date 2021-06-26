@@ -1,2 +1,2 @@
-https://cdn.jsdelivr.net/gh/imwenyi/AliceStyle@main/static
+https://cdn.jsdelivr.net/gh/iwenyi/AliceStyle@main/static
 
